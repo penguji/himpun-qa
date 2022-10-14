@@ -6,13 +6,13 @@ Kami sadari, sumber daya belajar mandiri yang terkini dan terbanyak di jagad may
 Untuk itulah, kami ingin mengkoleksi, mengkurasi sumber daya bahasa Indonesia pada repository ini, agar memudahkan bagi teman-teman yang mulai belajar menjadi Software Quality Assurance.
 
 
-## Komunitas
+## 🤝 Komunitas
 ISQA - Indonesia Sofware Quality Assurance
 - [ISQA @meetup](https://www.meetup.com/Indonesia-Software-Quality-Assurance/)
 - [ISQA Telegram](https://t.me/sqa_id)
 - [PyAuto ID](https://t.me/pyautoid)
 
-## YouTube
+## 📺 YouTube
 Saluran youtube yang sering mengupload video pembelajaran mengenai software testing dan test automation
 - [ISQA](https://www.youtube.com/c/ISQA_ID)
 - [NgeTest Bareng Fachrul](https://www.youtube.com/c/NgeTestBarengFachrul)
@@ -23,7 +23,7 @@ Saluran youtube yang sering mengupload video pembelajaran mengenai software test
 - [Ngobrol QA](https://www.youtube.com/channel/UCARN0p3ByRIxs4CA_SS5Tdw)
 
 
-## Instagram
+## 📷 Instagram
 Sosial media punggawa QA
 - [ISQA](https://www.instagram.com/isqa_id/)
 - [Penguji.id](https://www.instagram.com/penguji.id/)
@@ -38,10 +38,10 @@ Sosial media punggawa QA
 - [Pyauto ID](https://www.instagram.com/pyautoid/)
 
 
-# Topik Pembahasan
+# 🌟 Topik Pembahasan
 
 <details>
-  <summary>Pengenalan Software Testing</summary>
+  <summary>🤔 Pengenalan Software Testing</summary>
 
 ## Artikel
 #### fachrul.id
@@ -59,7 +59,7 @@ Sosial media punggawa QA
 
 
 <details>
-  <summary>Persiapan Wawancara QA</summary>
+  <summary>🧑🏻‍💻 Persiapan Wawancara QA</summary>
 
 ## Artikel
 ##### fachrul.id
@@ -78,7 +78,7 @@ Sosial media punggawa QA
 </details>
 
 <details>
-  <summary>Perihal Sertifikasi</summary>
+  <summary>🎫 Perihal Sertifikasi</summary>
 
 ## Video
 #### ElementNotFound
@@ -86,7 +86,7 @@ Sosial media punggawa QA
 </details>
 
 <details>
-  <summary>Belajar Test Automation</summary>
+  <summary>🤖 Belajar Test Automation</summary>
 
 ## Video
 ### Python
