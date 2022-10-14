@@ -12,7 +12,7 @@ ISQA-Indonesia Sofware Quality Assurance
 - [ISQA @meetup](https://www.meetup.com/Indonesia-Software-Quality-Assurance/)
 Himpunan materi menjadi software quality assurance berbahasa Indonesia
 - [ISQA Telegram](https://t.me/sqa_id)
-- 
+- [PyAuto ID](https://t.me/pyautoid)
 
 ## YouTube
 Saluran youtube yang sering mengupload video pembelajaran mengenai software testing dan test automation
@@ -36,3 +36,5 @@ Sosial media punggawa QA
 - [IDSTB](https://www.instagram.com/idstb_id/)
 - [Sekolahqa](https://www.instagram.com/sekolahqa/)
 - [Bincang.qa](https://www.instagram.com/bincang.qa/)
+- [Ide Jongkok](https://www.instagram.com/idejongkok/)
+- [Pyauto ID](https://www.instagram.com/pyautoid/)
