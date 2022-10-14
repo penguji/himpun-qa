@@ -1,5 +1,11 @@
 # Himpunan Sumber Pembelajaran Menjadi Penguji Aplikasi Digital
-Kumpulan dari tautan tentang SQA (software quality assurance) dan materi sumber daya ilmu di dunia 
+Dengan semangat gotong royong, kami membuka peluang bagi siapapun untuk ikut berpartisipasi dalam repository ini, demi memperkaya khasanah sumber daya pengetahuan duni Software Quality Assurance / Software Testing yang berbahasa Indonesia.
+
+Kami sadari, sumber daya terkini dan terbanyak di jagad maya ini menggunakan bahasa Inggris, tentu kami pun menyarankan untuk teman-teman belajar dan memahami bahasa Inggris agar cakrawala pengetahuan semakin terbuka dan tidak terbatas oleh bahasa Indonesia saja, dan kami sangat menghargai sekali artikel software testing yang menggunakan bahasa Indonesia, karena tidak semua orang memiliki kemampuan berbahasa Inggris yang cukup untuk memahami sumber daya bahasa Inggris.
+
+Untuk itulah, kami ingin mengkoleksi, mengkurasi sumber daya bahasa Indonesia pada repository ini, agar memudahkan bagi teman-teman yang mulai belajar menjadi Software Quality Assurance
+
+
 
 ## Komunitas
 ISQA-Indonesia Sofware Quality Assurance
