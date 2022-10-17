@@ -64,89 +64,110 @@ Daftar orang-orang yg kamu bisa connect langsung
 <details>
   <summary>🤔 Pengenalan Software Testing</summary>
 
-## Artikel
+> Apa itu software testing?
 
-#### fachrul.id
+Artikel:
 
-- [Saya Software Quality Tester baru, bagaimana cara saya memulai?](https://fachrul.id/saya-software-quality-tester-baru-bagaimana-cara-saya-memulai/)
+- [8 Jenis Software Testing](https://medium.com/qa-malang/8-jenis-software-testing-5a884e806a6d)
+- [Mengenal Software Quality Assurance](https://medium.com/qa-malang/mengenal-software-quality-assurance-c3d86a8936be)
+- [Testing Manifesto Part 1](https://medium.com/qa-malang/testing-manifesto-1cc52c31833)
+- [Testing Manifesto Part 2](https://medium.com/qa-malang/testing-manifesto-part-2-56284b291ef6)
 
-#### Malang Quality Assurance
-
-- [Berbagai artikel tentang Quality Assurance, Manual dan Automation](https://medium.com/qa-malang)
-
-## Video
-
-#### ElementNotFound
-
-- [Test Engineer? SDET? SEIT?](https://www.youtube.com/watch?v=PtO7vWoZaU8)
-
-#### NgeTest Bareng Fachrul
+Video:
 
 - [Belajar Menjadi Software QA Andalan](https://www.youtube.com/playlist?list=PLfQWB548wEGZL3gZ6WEWvQOpelQ6cRvw4)
-
-#### Bincang QA
-
 - [SQA Journey Path](https://www.youtube.com/playlist?list=PLteNxiEnsdrT1KQDW3tXGeuRubHT8szwv)
+
+> Mengenal Jabatan dan Tanggung Jawab
+
+Artikel:
+
+- [Software Quality Assurance Vs Developer](https://medium.com/qa-malang/software-quality-assurance-vs-developer-d5219898b4aa)
+
+Video:
+
+- [Nyari Kerja? Semua Bisa Jadi Software Tester Asalkan ...](https://www.youtube.com/watch?v=e23zeWnufj4&list=PLWm4TTUtmpXYRcnDzs7dy4f9M4REelvvG&index=1)
+- [Test Engineer? SDET? SEIT?](https://www.youtube.com/watch?v=PtO7vWoZaU8)
+
+> Merancang Test Cases
+
+- [Memperjelas Requirements Dalam Pengembangan Aplikasi](https://medium.com/qa-malang/memperjelas-requirements-dalam-pengembangan-aplikasi-ef617553212c)
+- [Writing a Succesfull Test Scenario](https://medium.com/qa-malang/writing-a-succesfull-test-scenario-acbc0bc1e098)
+
+> Proses Testing
+
+- [Mengenal STLC (Software Testing Life Cycle)](https://medium.com/qa-malang/mengenal-stlc-software-testing-life-cycle-e0a6da1f289b)
+
+> Usability Test
+
+- [Usability Testing To Improve User Experience](https://medium.com/qa-malang/usability-testing-to-improve-user-experience-15eef53fc970)
+
+> Lain-lain
+
+- [Saya Software Quality Tester baru, bagaimana cara saya memulai?](https://fachrul.id/saya-software-quality-tester-baru-bagaimana-cara-saya-memulai/)
 
 </details>
 
 <details>
   <summary>🧑🏻‍💻 Persiapan Wawancara QA</summary>
 
-## Artikel
+> Merancang Portofolio
 
-##### fachrul.id
+Artikel:
 
 - [Portofolio QA - Tampil Memikat Melamar Lowongan Kerja Software Quality Assurance/Engineer](https://fachrul.id/portofolio-software-quality-assurance/)
 
-## Video
+> Wawancara kandidat Software Tester
 
-#### ElementNotFound
+Video:
 
-- [QA Interview - Insider tips!](https://www.youtube.com/watch?v=ePOXfZTzBQ8)
 - [How To Ace Your Interview - Tips from Talent Acquisition](https://www.youtube.com/watch?v=NWJP3r42VfE)
-
-#### NgeTest Bareng Fachrul
-
 - [Kumpulan Pertanyaan Umum saat Interview Software Engineer](https://www.youtube.com/playlist?list=PLfQWB548wEGbBUTSqybdnvrzulOgC59Gy)
+- [QA Interview - Insider tips!](https://www.youtube.com/watch?v=ePOXfZTzBQ8)
 
-#### Ngobrol QA
-
-- [Nyari Kerja? Semua Bisa Jadi Software Tester Asalkan ...](https://www.youtube.com/watch?v=e23zeWnufj4&list=PLWm4TTUtmpXYRcnDzs7dy4f9M4REelvvG&index=1)
 </details>
 
 <details>
   <summary>🎫 Perihal Sertifikasi</summary>
 
-## Video
+> ISTQB
 
-#### ElementNotFound
+Video:
 
 - [All you need to know about ISTQB!!](https://www.youtube.com/watch?v=2mwLYAYsi94)
 </details>
 
-<details>
+<details open>
   <summary>🤖 Belajar Test Automation</summary>
 
-## Video
+> Pengujian API
 
-### Python
+Artikel:
 
-#### Ide Jongkok
+- [API Monitoring Menggunakan Postman](https://medium.com/qa-malang/api-monitoring-menggunakan-postman-82a51b568104)
+- [Bootcamp, Pembelajaran Interaktif dalam Aplikasi Postman](https://medium.com/qa-malang/bootcamp-pembelajaran-interaktif-dalam-aplikasi-postman-efdcb8569d7d)
 
-- [Belajar Automation Selenium Python](https://www.youtube.com/playlist?list=PLW3Gs0ff2b79n_4Qy__mHZO9EcIiB4NZZ)
-- [Automation Selenium 4 Python (Remake)](https://www.youtube.com/watch?v=8Vo8sETHLgg&list=PLW3Gs0ff2b78zcn78np340hKyKVw84Dhh)
-- [Python Automation API Test](https://www.youtube.com/playlist?list=PLW3Gs0ff2b7-Ny7RJTeKr1_lEVxm7eyUE)
-- [Belajar Appium Python](https://www.youtube.com/playlist?list=PLW3Gs0ff2b78GK8zYyDF355d55s9kYLDa)
-- [Belajar Test Automation lengkap dengan Learning Path nya](https://testautomationu.applitools.com/)
+Video:
 
-#### NgeTest Bareng Fachrul
+- Python:
+  - [Belajar Membuat API Automation Test Framework dengan Python](https://www.youtube.com/playlist?list=PLfQWB548wEGaol4i5Bi9WzcJVMu0URzyd)
+  - [Python Automation API Test](https://www.youtube.com/playlist?list=PLW3Gs0ff2b7-Ny7RJTeKr1_lEVxm7eyUE)
 
-- [Belajar Membuat API Automation Test Framework dengan Python](https://www.youtube.com/playlist?list=PLfQWB548wEGaol4i5Bi9WzcJVMu0URzyd)
-- [Belajar Automation Test Mobile dengan Appium + Python](https://www.youtube.com/playlist?list=PLfQWB548wEGYjsa6P5IV-T7AKLrkfopDQ)
+> Pengujian Website
 
-#### Bincang QA
+Video:
 
-- [Setup Cucumber Selenium Java](https://youtu.be/dTAxSbGikSk)
-- [Web Automation Testing menggunakan Cucumber Selenium Java](https://youtu.be/zRPyrNq9bWI)
+- Python:
+  - [Automation Selenium 4 Python (Remake)](https://www.youtube.com/watch?v=8Vo8sETHLgg&list=PLW3Gs0ff2b78zcn78np340hKyKVw84Dhh)
+  - [Belajar Automation Selenium Python](https://www.youtube.com/playlist?list=PLW3Gs0ff2b79n_4Qy__mHZO9EcIiB4NZZ)
+  - [Setup Cucumber Selenium Java](https://youtu.be/dTAxSbGikSk)
+  - [Web Automation Testing menggunakan Cucumber Selenium Java](https://youtu.be/zRPyrNq9bWI)
+- Java:
+
+> Pengujian aplikasi Mobile
+
+- Python:
+  - [Belajar Appium Python](https://www.youtube.com/playlist?list=PLW3Gs0ff2b78GK8zYyDF355d55s9kYLDa)
+  - [Belajar Automation Test Mobile dengan Appium + Python](https://www.youtube.com/playlist?list=PLfQWB548wEGYjsa6P5IV-T7AKLrkfopDQ)
+
 </details>
