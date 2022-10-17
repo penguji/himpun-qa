@@ -160,14 +160,17 @@ Video:
 - Python:
   - [Automation Selenium 4 Python (Remake)](https://www.youtube.com/watch?v=8Vo8sETHLgg&list=PLW3Gs0ff2b78zcn78np340hKyKVw84Dhh)
   - [Belajar Automation Selenium Python](https://www.youtube.com/playlist?list=PLW3Gs0ff2b79n_4Qy__mHZO9EcIiB4NZZ)
+  - [Belajar Robot Framework](https://www.youtube.com/watch?v=ET-2KRqReAM&list=PLW3Gs0ff2b79Jr4wSbUaKaLui-oJBS8x5)
+  - [Belajar Pytest + Selenium](https://www.youtube.com/playlist?list=PLW3Gs0ff2b78lk3KLgPAit9DAbVidgter)
+- Java:
   - [Setup Cucumber Selenium Java](https://youtu.be/dTAxSbGikSk)
   - [Web Automation Testing menggunakan Cucumber Selenium Java](https://youtu.be/zRPyrNq9bWI)
-- Java:
 
 > Pengujian aplikasi Mobile
 
 - Python:
   - [Belajar Appium Python](https://www.youtube.com/playlist?list=PLW3Gs0ff2b78GK8zYyDF355d55s9kYLDa)
   - [Belajar Automation Test Mobile dengan Appium + Python](https://www.youtube.com/playlist?list=PLfQWB548wEGYjsa6P5IV-T7AKLrkfopDQ)
+  - [Belajar ADB dengan python](https://www.youtube.com/playlist?list=PLW3Gs0ff2b7_K9RHgq-8WOItF3rK2EEYf)
 
 </details>
