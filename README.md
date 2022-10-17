@@ -59,6 +59,10 @@ Sosial media punggawa QA
 #### NgeTest Bareng Fachrul
 * [Belajar Menjadi Software QA Andalan](https://www.youtube.com/playlist?list=PLfQWB548wEGZL3gZ6WEWvQOpelQ6cRvw4)
 
+
+#### Bincang QA
+* [SQA Journey Path](https://www.youtube.com/playlist?list=PLteNxiEnsdrT1KQDW3tXGeuRubHT8szwv)
+
 </details>
 
 
@@ -104,4 +108,8 @@ Sosial media punggawa QA
 #### NgeTest Bareng Fachrul
 * [Belajar Membuat API Automation Test Framework dengan Python](https://www.youtube.com/playlist?list=PLfQWB548wEGaol4i5Bi9WzcJVMu0URzyd)
 * [Belajar Automation Test Mobile dengan Appium + Python](https://www.youtube.com/playlist?list=PLfQWB548wEGYjsa6P5IV-T7AKLrkfopDQ)
+
+#### Bincang QA
+* [Setup Cucumber Selenium Java](https://youtu.be/dTAxSbGikSk)
+* [Web Automation Testing menggunakan Cucumber Selenium Java](https://youtu.be/zRPyrNq9bWI)
 </details>
