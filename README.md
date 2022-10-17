@@ -38,6 +38,9 @@ Sosial media punggawa QA
 - [Ide Jongkok](https://www.instagram.com/idejongkok/)
 - [Pyauto ID](https://www.instagram.com/pyautoid/)
 
+## 📷 Linkedin / Influencer
+Daftar orang-orang yg kamu bisa connect langsung
+- [Fachrul Choliluddin](https://www.linkedin.com/in/fachrul/)
 
 # 🌟 Topik Pembahasan
 
