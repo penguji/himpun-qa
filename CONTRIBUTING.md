@@ -13,4 +13,7 @@ Untuk itulah, kami ingin mengkoleksi, mengkurasi sumber daya bahasa Indonesia pa
 - Artikel/Video menggunakan bahasa Indonesia
 - Berfokus pada pembelajaran, pengalaman, dan pengetahuan dunia Software Testing
 - Tautan bisa diakses secara publik (terbuka)
-- Pengelola repository memiliki hak dan tanggung jawab untuk menghapus, mengedit, atau menolak komentar, komit kode yand dianggap tidak pantas, mengancam, menyinggung atau berbahaya
+- Pengelola repository memiliki hak dan tanggung jawab untuk menghapus, mengedit, atau menolak komentar, komit kode yang dianggap tidak pantas, mengancam, menyinggung atau berbahaya
+- Kategori "Influencers" memiliki beberapa parameter seperti:
+  - Minimal sudah berkarir 5 tahun di bidang QA, diutamakan yang memiliki title lead/manager atau sertifikasi ISTQB dan sejenisnya
+  - Rutin membagikan post di Linkedin terkait dunia QA, baik itu hal teknis maupun non-teknis
