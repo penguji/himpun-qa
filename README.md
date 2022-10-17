@@ -38,6 +38,11 @@ Sosial media punggawa QA
 - [Ide Jongkok](https://www.instagram.com/idejongkok/)
 - [Pyauto ID](https://www.instagram.com/pyautoid/)
 
+## 👮🏼 LinkedIn / Influencer
+Daftar orang-orang yg kamu bisa connect langsung
+- [Fachrul Choliluddin](https://www.linkedin.com/in/fachrul/). Pemilik akun instagram @penguji.id dan juga channel Youtube "NgeTest Bareng Fachrul". Berpengalaman sebagai QA di beberapa startup besar seperti Halodoc, Mekari, dan GoTo.
+- [Lamhot Siagian](https://www.linkedin.com/in/lamhotsiagian/). Pengalaman 7+ tahun di bidang QA, dan sekarang berkarir sebagai SDET di Apple. Penulis buku berjudul "Otomatisasi Pengujian Perangkat Lunak".
+- [Depa Panjie Purnama](https://www.linkedin.com/in/depapp/). Seorang QA yang cukup sering berkontribusi pada project-project open source. Rutin membagikan post mengenai eksperimennya mencoba hal-hal baru terkait automation testing.
 
 # 🌟 Topik Pembahasan
 
