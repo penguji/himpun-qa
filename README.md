@@ -11,6 +11,7 @@ ISQA - Indonesia Sofware Quality Assurance
 - [ISQA @meetup](https://www.meetup.com/Indonesia-Software-Quality-Assurance/)
 - [ISQA Telegram](https://t.me/sqa_id)
 - [PyAuto ID](https://t.me/pyautoid)
+- [Malang Quality Assurance](https://t.me/qamalang)
 
 ## 📺 YouTube
 Saluran youtube yang sering mengupload video pembelajaran mengenai software testing dan test automation
@@ -46,6 +47,9 @@ Sosial media punggawa QA
 ## Artikel
 #### fachrul.id
 * [Saya Software Quality Tester baru, bagaimana cara saya memulai?](https://fachrul.id/saya-software-quality-tester-baru-bagaimana-cara-saya-memulai/)
+
+#### Malang Quality Assurance
+* [Berbagai artikel tentang Quality Assurance, Manual dan Automation](https://medium.com/qa-malang)
 
 ## Video
 #### ElementNotFound
@@ -95,6 +99,7 @@ Sosial media punggawa QA
 * [Automation Selenium 4 Python (Remake)](https://www.youtube.com/watch?v=8Vo8sETHLgg&list=PLW3Gs0ff2b78zcn78np340hKyKVw84Dhh    )
 * [Python Automation API Test](https://www.youtube.com/playlist?list=PLW3Gs0ff2b7-Ny7RJTeKr1_lEVxm7eyUE)
 * [Belajar Appium Python](https://www.youtube.com/playlist?list=PLW3Gs0ff2b78GK8zYyDF355d55s9kYLDa)
+* [Belajar Test Automation lengkap dengan Learning Path nya](https://testautomationu.applitools.com/)
 
 #### NgeTest Bareng Fachrul
 * [Belajar Membuat API Automation Test Framework dengan Python](https://www.youtube.com/playlist?list=PLfQWB548wEGaol4i5Bi9WzcJVMu0URzyd)
