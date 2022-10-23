@@ -52,9 +52,10 @@ Sosial media punggawa QA
 - [Squadap.id](https://www.instagram.com/squadap.id/)
 - [Pyauto ID](https://www.instagram.com/pyautoid/)
 
-## 👮🏼 LinkedIn / Influencer
+## 👮🏼 LinkedIn / QA Profesional
 
-Daftar orang-orang yg kamu bisa connect langsung
+LinkedIn adalah media sosial dimana para profesional khususnya di bidang Software Quality berbagi informasi, berita, kegiatan, best practice dan opini mereka.
+Berikut ini adalah daftar para punggawa QA yang terkenal sering berbagi di LinkedIn
 
 - [Ario Uno Suseno](https://www.linkedin.com/in/aria-uno-suseno). Adalah founder PyAuto ID, komunitas test automation berbasis bahasa pemrograman Python, beliau sangat aktif memberikan seminar ataupun kelas belajar test automation dan pada saluran youtube nya yaitu sIde Jongkok, silahkan berkoneksi dengan beliau untuk mengetahui informasi terkini
 - [Depa Panjie Purnama](https://www.linkedin.com/in/depapp/). Seorang QA yang cukup sering berkontribusi pada project-project open source. Rutin membagikan post mengenai eksperimennya mencoba hal-hal baru terkait automation testing.
