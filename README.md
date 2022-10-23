@@ -14,7 +14,8 @@ Untuk itulah, kami ingin mengkoleksi, mengkurasi sumber daya bahasa Indonesia pa
 
 ISQA - Indonesia Sofware Quality Assurance
 
-- [ISQA @meetup](https://www.meetup.com/Indonesia-Software-Quality-Assurance/)
+- [ISQA Discord](https://discord.gg/UZpxSJeZ9z)
+- [ISQA Meetup](https://www.meetup.com/Indonesia-Software-Quality-Assurance/)
 - [ISQA Telegram](https://t.me/sqa_id)
 - [Malang Quality Assurance](https://t.me/qamalang)
 - [PyAuto ID](https://t.me/pyautoid)
@@ -31,7 +32,7 @@ Saluran youtube yang sering mengupload video pembelajaran mengenai software test
 - [Bincang QA](https://www.youtube.com/c/BincangQA)
 - [ElementNotFound](https://www.youtube.com/channel/UCBwAUdVRaRNZszCaZOScrxg/)
 - [Ide Jongkok](https://www.youtube.com/c/IdeJongkok)
-- [ISQA](https://www.youtube.com/c/ISQA_ID)
+- [Indonesia Sofware Quality Assurance](https://www.youtube.com/c/ISQA_ID)
 - [NgeTest Bareng Fachrul](https://www.youtube.com/c/NgeTestBarengFachrul)
 - [Ngobrol QA](https://www.youtube.com/channel/UCARN0p3ByRIxs4CA_SS5Tdw)
 
@@ -58,7 +59,7 @@ Daftar orang-orang yg kamu bisa connect langsung
 - [Depa Panjie Purnama](https://www.linkedin.com/in/depapp/). Seorang QA yang cukup sering berkontribusi pada project-project open source. Rutin membagikan post mengenai eksperimennya mencoba hal-hal baru terkait automation testing.
 - [Fachrul Choliluddin](https://www.linkedin.com/in/fachrul/). Pemilik akun instagram @penguji.id dan juga channel Youtube "NgeTest Bareng Fachrul". Berpengalaman sebagai QA di beberapa startup besar seperti Halodoc, Mekari, dan GoTo.
 - [Lamhot Siagian](https://www.linkedin.com/in/lamhotsiagian/). Pengalaman 7+ tahun di bidang QA, dan sekarang berkarir sebagai SDET di Apple, USA. Penulis buku berjudul "Otomatisasi Pengujian Perangkat Lunak".
-
+- [Wisnu Munawar](https://www.linkedin.com/in/wisnuwm). Sering membagikan tutorial test automation berbasis Java melalui platform Bincang QA 
 # 🌟 Topik Pembahasan
 
 <details>
